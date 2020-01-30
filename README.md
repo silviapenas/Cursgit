@@ -9,3 +9,5 @@ i més canvis
 
 pull origin master
  farem canvis per pull request
+
+ mes canvis pull request
