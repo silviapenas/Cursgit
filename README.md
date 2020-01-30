@@ -8,3 +8,4 @@ he eliminat una linia a la branca develop
 i més canvis
 
 pull origin master
+ farem canvis per pull request
